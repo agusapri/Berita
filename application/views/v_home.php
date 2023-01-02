@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>PORTAL BERITA</title>
+    <title>BERTANI</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -34,7 +34,7 @@
         <div class="container-fluid">
             <div id="logo" class="pull-left">
 
-                <h1>PORTAL BERITA</h1>
+                <h1>BERTANI</h1>
                 <!-- <h3>BERITA SEPUTAR KODING</h3> -->
 
 
@@ -54,12 +54,12 @@
                             <?php endforeach; ?>
                         </ul>
                     </li>
-                    <li><a href="#portfolio">Gallery</a></li>
+                    <!-- <li><a href="#portfolio">Gallery</a></li>
                     <!-- <li><a href="<?php echo base_url() . 'pendaftaran' ?>">SIGN UP</a></li> -->
 
                     <!-- <li><a href="<?php echo base_url() . 'user/user' ?>">LOGIN USER</a></li> -->
                     <li><a href="<?php echo base_url() . 'Administrator' ?>">LOGIN ADMIN</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#contact">Contact</a></li> -->
                 </ul>
             </nav><!-- #nav-menu-container -->
         </div>
@@ -83,9 +83,9 @@
                                 alt=""></div>
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2>Portal Berita</h2>
+                                <h2>BERTANI</h2>
                                 <h3>
-                                    <p>Ayo buat dan Portal Berita terbaikmu </p>
+                                    <p>Berita Kita Masa Kini Siap Menemani Harimu </p>
                                 </h3>
 
                             </div>
@@ -97,7 +97,7 @@
                                 alt=""></div>
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2>Portal Berita</h2>
+                                <h2>BERTANI</h2>
                                 <h3>
                                     <p>Ayo buat dan Portal Berita terbaikmu </p>
                                 </h3>
@@ -112,9 +112,9 @@
                                 alt=""></div>
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2>Portal Berita</h2>
+                                <h2>BERTANI</h2>
                                 <h3>
-                                    <p>Ayo buat dan Portal Berita terbaikmu </p>
+                                    <p>Berita Kita Masa Kini Siap Menemani Harimu </p>
                                 </h3>
 
 
@@ -127,9 +127,9 @@
                                 alt=""></div>
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2>Portal Berita</h2>
+                                <h2>BERTANI</h2>
                                 <h3>
-                                    <p>Ayo buat dan Portal Berita terbaikmu </p>
+                                    <p>Berita Kita Masa Kini Siap Menemani Harimu </p>
                                 </h3>
 
 
@@ -142,9 +142,9 @@
                                 alt=""></div>
                         <div class="carousel-container">
                             <div class="carousel-content">
-                                <h2>Portal Berita</h2>
+                                <h2>BERTANI</h2>
                                 <h3>
-                                    <p>Ayo buat dan Portal Berita terbaikmu </p>
+                                    <p>Berita Masa Kini Siap Menemani Harimu </p>
                                 </h3>
 
 
@@ -180,7 +180,7 @@
 
                 <header class="section-header">
                     <h3>NEWS BERITA</h3>
-                    <p>BERITA SEPUTAR DAN PRESTASI MAHASISWA
+                    <p>BERITA TERKINI YANG SEDANG VIRAL
                     </p>
                 </header>
 

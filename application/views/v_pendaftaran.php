@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>SignUp Portal Berita</title>
+    <title>SignUp Berita</title>
     <meta name="description" content="Love Authority." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">

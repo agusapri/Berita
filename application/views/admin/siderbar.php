@@ -32,7 +32,6 @@
            <li><a href="<?php echo base_url().'admin/tulisan/add_tulisan'?>"><i class="fa fa-thumb-tack"></i> Post Berita</a></li>
            <li><a href="<?php echo base_url().'admin/tulisan'?>"><i class="fa fa-list"></i> List Berita </a></li>
            <li><a href="<?php echo base_url().'admin/Kategori'?>"><i class="fa fa-list"></i> Kategori Berita </a></li>
-            <li><a href="<?php echo base_url().'admin/tulisan/tulisanUser'?>"><i class="fa fa-file-text-o"></i> Pengajuan Berita</a></li>
           </ul>
         </li>
         <!-- <li>
